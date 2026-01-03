@@ -1,11 +1,11 @@
-## 🧾 Account and Transaction Management Interface
+## Account and Transaction Management Interface
 
 The following screenshots illustrate the main features of the application,
 developed using **React**, **GraphQL**, and **Apollo Client**.
 
 ---
 
-### ➕ Create a Bank Account
+###  Create a Bank Account
 
 This section allows the user to create a new bank account by specifying:
 - The initial balance
@@ -17,7 +17,7 @@ Once submitted, a GraphQL mutation is sent to the backend to persist the account
 
 ---
 
-### 💸 Add a Transaction
+###  Add a Transaction
 
 This section enables the user to add a transaction to an existing account:
 - Transaction type (Deposit or Withdrawal)
@@ -31,7 +31,7 @@ updated accordingly.
 
 ---
 
-### 📜 Transaction History
+###  Transaction History
 
 The application also displays the transaction history, allowing users to track
 all operations performed on their accounts in real time.
